@@ -1,0 +1,15 @@
+{
+  "name": "11_facebook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Diego Nunes <diegonunesdev@gmail.com> (https://diegonunes.dev/)",
+  "license": "MIT",
+  "dependencies": {
+    "tailwindcss": "^2.1.1"
+  }
+}
